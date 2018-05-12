@@ -32,3 +32,8 @@ Start with wolfs end with Colossus, you're the one who decides.
     5- Extra Large Healing Potion
     6- Fucking Extra Large Healing Potion
     Maybe there's more, who knows...
+
+# Donate
+    BTC: 1JHwQyepKikKf3UVk7aW6zuG1vR9QGgrnv
+    ETH: 0xaC26f145c0dcc3FcDe5E3F106f2B3A6acffC8ad6
+    BTH: qz7csqpn6u43lfk6083umlts8q3t34v0p5cq0fuv7v
